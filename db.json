@@ -1,16 +1,70 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "Nombre del estudiante": "Andres",
+      "Grado": 4,
+      "Tipo de identificacion": "TI",
+      "Documento": 1234,
+      "Carnet": 12344,
+      "Numero factura": 123445,
+      "Valor mensual": 150000,
+      "Fecha de vencimiento": "30/02/2021"
     },
     {
-      "id": 2,
-      "title": "Prueba2"
+      "Nombre del estudiante": "Andres",
+      "Grado": 4,
+      "Tipo de identificacion": "TI",
+      "Documento": 1234,
+      "Carnet": 12344,
+      "Numero factura": 123446,
+      "Valor mensual": 165000,
+      "Fecha de vencimiento": "30/02/2021"
     },
     {
-      "id": 3,
-      "title": "Prueba3"
+      "Nombre del estudiante": "Felipe",
+      "Grado": 5,
+      "Tipo de identificacion": "TI",
+      "Documento": 1235,
+      "Carnet": 12355,
+      "Numero factura": 123440,
+      "Valor mensual": 155000,
+      "Fecha de vencimiento": "30/02/2022"
+    },{
+      "Nombre del estudiante": "Andrea",
+      "Grado": 5,
+      "Tipo de identificacion": "TI",
+      "Documento": 1236,
+      "Carnet": 12366,
+      "Numero factura": 123441,
+      "Valor mensual": 160000,
+      "Fecha de vencimiento": "30/02/2023"
+    },{
+      "Nombre del estudiante": "Jessica",
+      "Grado": 7,
+      "Tipo de identificacion": "TI",
+      "Documento": 1237,
+      "Carnet": 12377,
+      "Numero factura": 123442,
+      "Valor mensual": 165000,
+      "Fecha de vencimiento": "30/02/2024"
+    },{
+      "Nombre del estudiante": "Juan",
+      "Grado": 10,
+      "Tipo de identificacion": "CC",
+      "Documento": 1238,
+      "Carnet": 12388,
+      "Numero factura": 123443,
+      "Valor mensual": 170000,
+      "Fecha de vencimiento": "30/02/2025"
+    },{
+      "Nombre del estudiante": "Maria",
+      "Grado": 11,
+      "Tipo de identificacion": "CC",
+      "Documento": 1239,
+      "Carnet": 12399,
+      "Numero factura": 123444,
+      "Valor mensual": 175000,
+      "Fecha de vencimiento": "30/02/2026"
     }
   ],
   "profile": {
