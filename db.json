@@ -21,6 +21,26 @@
       "Fecha de vencimiento": "30/02/2021"
     },
     {
+      "Nombre del estudiante": "Andres",
+      "Grado": 4,
+      "Tipo de identificacion": "TI",
+      "Documento": 1234,
+      "Carnet": 12344,
+      "Numero factura": 123446,
+      "Valor mensual": 185000,
+      "Fecha de vencimiento": "30/02/2021"
+    },
+    {
+      "Nombre del estudiante": "Andres",
+      "Grado": 4,
+      "Tipo de identificacion": "TI",
+      "Documento": 1234,
+      "Carnet": 12344,
+      "Numero factura": 123446,
+      "Valor mensual": 265000,
+      "Fecha de vencimiento": "30/02/2021"
+    },
+    {
       "Nombre del estudiante": "Felipe",
       "Grado": 5,
       "Tipo de identificacion": "TI",
